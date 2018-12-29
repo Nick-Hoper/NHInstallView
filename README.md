@@ -1,21 +1,19 @@
 # NHInstallView
 
->Swift4.2编写安装进度视图
+>Object - C编写安装进度视图
 
 ![test.jpg](https://github.com/Nick-Hoper/NHInstallView/blob/master/test.jpg)
 
 
 ## Features
 
-- 完美支持Swift4.2编译
 - 集成使用简单，二次开发扩展强大
-
 
 ## Requirements
 
 - iOS 9+
 - Xcode 9+
-- Swift 4.0+
+- Object-C
 - iPhone
 
 ## Example
